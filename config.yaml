@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://karczex.github.io
 languageCode: en-us
 title: segmentation fault (core dumped) karczex
 theme: hugo-theme-mini
